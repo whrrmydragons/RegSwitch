@@ -1,6 +1,6 @@
 {
   "name": "reg-switch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Regular Expression swtich case function generator",
   "main": "./lib",
   "scripts": {
